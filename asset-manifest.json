@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/gonzo-phonebook/static/css/main.481247b4.css",
+    "main.js": "/gonzo-phonebook/static/js/main.43760df5.js",
+    "static/css/936.2dee4aa1.chunk.css": "/gonzo-phonebook/static/css/936.2dee4aa1.chunk.css",
+    "static/js/936.6e25d8ac.chunk.js": "/gonzo-phonebook/static/js/936.6e25d8ac.chunk.js",
+    "static/css/709.8b0e0a25.chunk.css": "/gonzo-phonebook/static/css/709.8b0e0a25.chunk.css",
+    "static/js/709.bfbd3bee.chunk.js": "/gonzo-phonebook/static/js/709.bfbd3bee.chunk.js",
+    "static/css/199.635986fa.chunk.css": "/gonzo-phonebook/static/css/199.635986fa.chunk.css",
+    "static/js/199.1b3bb530.chunk.js": "/gonzo-phonebook/static/js/199.1b3bb530.chunk.js",
+    "static/css/794.278720d4.chunk.css": "/gonzo-phonebook/static/css/794.278720d4.chunk.css",
+    "static/js/794.7a15c0bd.chunk.js": "/gonzo-phonebook/static/js/794.7a15c0bd.chunk.js",
+    "static/css/985.0301d743.chunk.css": "/gonzo-phonebook/static/css/985.0301d743.chunk.css",
+    "static/js/985.405cd964.chunk.js": "/gonzo-phonebook/static/js/985.405cd964.chunk.js",
+    "static/js/57.f64f4a91.chunk.js": "/gonzo-phonebook/static/js/57.f64f4a91.chunk.js",
+    "static/js/801.b91c7680.chunk.js": "/gonzo-phonebook/static/js/801.b91c7680.chunk.js",
+    "static/js/435.8052bf68.chunk.js": "/gonzo-phonebook/static/js/435.8052bf68.chunk.js",
+    "index.html": "/gonzo-phonebook/index.html",
+    "main.481247b4.css.map": "/gonzo-phonebook/static/css/main.481247b4.css.map",
+    "main.43760df5.js.map": "/gonzo-phonebook/static/js/main.43760df5.js.map",
+    "936.2dee4aa1.chunk.css.map": "/gonzo-phonebook/static/css/936.2dee4aa1.chunk.css.map",
+    "936.6e25d8ac.chunk.js.map": "/gonzo-phonebook/static/js/936.6e25d8ac.chunk.js.map",
+    "709.8b0e0a25.chunk.css.map": "/gonzo-phonebook/static/css/709.8b0e0a25.chunk.css.map",
+    "709.bfbd3bee.chunk.js.map": "/gonzo-phonebook/static/js/709.bfbd3bee.chunk.js.map",
+    "199.635986fa.chunk.css.map": "/gonzo-phonebook/static/css/199.635986fa.chunk.css.map",
+    "199.1b3bb530.chunk.js.map": "/gonzo-phonebook/static/js/199.1b3bb530.chunk.js.map",
+    "794.278720d4.chunk.css.map": "/gonzo-phonebook/static/css/794.278720d4.chunk.css.map",
+    "794.7a15c0bd.chunk.js.map": "/gonzo-phonebook/static/js/794.7a15c0bd.chunk.js.map",
+    "985.0301d743.chunk.css.map": "/gonzo-phonebook/static/css/985.0301d743.chunk.css.map",
+    "985.405cd964.chunk.js.map": "/gonzo-phonebook/static/js/985.405cd964.chunk.js.map",
+    "57.f64f4a91.chunk.js.map": "/gonzo-phonebook/static/js/57.f64f4a91.chunk.js.map",
+    "801.b91c7680.chunk.js.map": "/gonzo-phonebook/static/js/801.b91c7680.chunk.js.map",
+    "435.8052bf68.chunk.js.map": "/gonzo-phonebook/static/js/435.8052bf68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.481247b4.css",
+    "static/js/main.43760df5.js"
+  ]
+}
