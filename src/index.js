@@ -13,7 +13,7 @@ import { persistor } from './redux/store';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <StyledEngineProvider injectFirst>
     <React.StrictMode>
-      <BrowserRouter basename='gonzo-phonebook'>
+      <BrowserRouter basename='gonzo-phonebook/'>
         <Provider store={store} >
           <PersistGate loading={null} persistor={persistor}>
             <App />
